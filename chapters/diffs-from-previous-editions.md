@@ -1,8 +1,8 @@
 # Annex I Differences from previous editions (Informative)
 
-# I.1 Differences between V2.2.1 and V2.2 <a name="I.1"></a>
+# I.1 Differences between V2.2.2 and V2.2 <a name="I.1"></a>
 
-There were no technical differences; V2.2.1 is V2.2 reformatted for submission to ISO via the PAS process. As a result, new clauses were added causing the previous clause-numbering sequence to change. Also, Annexes went from having Roman numbers to Latin letters. Here is the translation between numbering in the current and previous editions:
+There were no technical differences; V2.2.2 is V2.2 reformatted for submission to ISO via the PAS process. As a result, new clauses were added causing the previous clause-numbering sequence to change. Also, Annexes went from having Roman numbers to Latin letters. Here is the translation between numbering in the current and previous editions:
 
 **Table I.1 — SPDX Editions**
 

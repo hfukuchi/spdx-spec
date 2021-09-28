@@ -36,7 +36,7 @@ EXAMPLE 2 RDF: Property `spdx:annotator` in class `spdx:Annotation`
 
 ## 12.2 Annotation date field <a name="12.2"></a>
 
-### 12.2.1 Description
+### 12.2.2 Description
 
 Identify when the comment was made. This shall be specified according to the combined date and time in the UTC format, as specified in the ISO 8601 standard. The metadata for the annotation date field is shown in Table 72.
 

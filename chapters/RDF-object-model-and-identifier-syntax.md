@@ -8,7 +8,7 @@ See: [http://spdx.org/rdf/ontology/spdx-2-2-1](http://spdx.org/rdf/ontology/spdx
 
 Version: 2.2
 
-![SPDX 2.2.1 RDF Ontology](img/spdx-2.2.1-rdf-ontology.png)
+![SPDX 2.2.2 RDF Ontology](img/spdx-2.2.2-rdf-ontology.png)
 
 **Figure C.1 — SPDX ontology**
 
